@@ -22,3 +22,12 @@ Se reduce o aumenta la mitad del delta ya que, si se aumentara un delta, el sist
 los estados de calefaccion y refrigeracion. Del mismo modo en el estado de ventilacion.
 ## Diagrama
 ![./recursos/Incubadora.png](https://github.com/NicoJaros/TP-MaquinasDeEstado---Incubadora/blob/master/Incubadora.png)
+
+
+ - __SET__: Inicio Archivo de Configuracion
+ - __T__: Temperatura (Sensor)
+ - __t_set__: Temperatura configurada
+ - __deltaT__: Delta de tempertura
+ - __H__: Humedad (Sensor)
+ - __h_set__: Humedad configurada
+ - __deltaT__: Delta de humedad
