@@ -1,4 +1,4 @@
-# TP-MaquinasDeEstado---Incubadora
+# TP Maquinas De Estado - Incubadora
 
 ## Memoria Descriptiva
 En este proyecto, presentamos una incubadora en la cual podremos setear la temperatura, humedad y un delta para ambas. 
