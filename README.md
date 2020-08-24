@@ -21,3 +21,4 @@ esto tenemos 3 estados posibles:
 Se reduce o aumenta la mitad del delta ya que, si se aumentara un delta, el sistema se encontraria continuamente alternando
 los estados de calefaccion y refrigeracion. Del mismo modo en el estado de ventilacion.
 ## Diagrama
+![./recursos/Incubadora.png](https://github.com/NicoJaros/TP-MaquinasDeEstado---Incubadora/blob/master/Incubadora.png)
