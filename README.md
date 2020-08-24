@@ -30,4 +30,4 @@ los estados de calefaccion y refrigeracion. Del mismo modo en el estado de venti
  - __deltaT__: Delta de tempertura
  - __H__: Humedad (Sensor)
  - __h_set__: Humedad configurada
- - __deltaT__: Delta de humedad
+ - __deltaH__: Delta de humedad
